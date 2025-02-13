@@ -157,9 +157,8 @@ License
 This project is provided under the terms of the MIT License (or whichever license you prefer). See LICENSE for details.
 
 Contact / Feedback
-	•	Author: [Your Name or GitHub Handle]
-	•	Email: [Your Email or Preferred Contact]
-	•	GitHub: [Your GitHub Profile URL]
+	•	Author: [Madhu Goutham Reddy Ambati]
+
 
 Feel free to open an issue in this repo if you find bugs or have suggestions for improvements. Contributions are welcome!
 
