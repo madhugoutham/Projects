@@ -81,7 +81,7 @@ Project Structure
 Usage
 	1.	Clone the Repository
 
-git clone https://github.com/YourUsername/Titanic-Classification-Project.git
+git clone [https://github.com/YourUsername/Titanic-Classification-Project.git](https://github.com/madhugoutham/Titanic_survival_prediction.git)
 cd Titanic-Classification-Project
 
 
