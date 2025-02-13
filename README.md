@@ -1,5 +1,3 @@
-Below is a sample README file you can include in your GitHub repository for the Titanic Classification Project. Feel free to adapt the wording and style to match your personal or organizational preferences.
-
 Titanic Classification Project
 
 A complete end-to-end project using Decision Trees and Ensemble Methods (Random Forest, Gradient Boosting, and XGBoost) to predict passenger survival on the Titanic. This project demonstrates how to perform:
